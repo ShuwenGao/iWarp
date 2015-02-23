@@ -1,0 +1,92 @@
+\begin{thebibliography}{10}
+
+\bibitem{bakhoda2009analyzing}
+{\sc Bakhoda, A., Yuan, G.~L., Fung, W.~W., Wong, H., and Aamodt, T.~M.}
+\newblock Analyzing cuda workloads using a detailed gpu simulator.
+\newblock In {\em Performance Analysis of Systems and Software, 2009. ISPASS
+  2009. IEEE International Symposium on\/} (2009), IEEE, pp.~163--174.
+
+\bibitem{che2009rodinia}
+{\sc Che, S., Boyer, M., Meng, J., Tarjan, D., Sheaffer, J.~W., Lee, S.-H., and
+  Skadron, K.}
+\newblock Rodinia: A benchmark suite for heterogeneous computing.
+\newblock In {\em Workload Characterization, 2009. IISWC 2009. IEEE
+  International Symposium on\/} (2009), IEEE, pp.~44--54.
+
+\bibitem{grauer2012auto}
+{\sc Grauer-Gray, S., Xu, L., Searles, R., Ayalasomayajula, S., and Cavazos,
+  J.}
+\newblock Auto-tuning a high-level language targeted to gpu codes.
+\newblock In {\em Innovative Parallel Computing (InPar), 2012\/} (2012), IEEE,
+  pp.~1--10.
+
+\bibitem{he2008mars}
+{\sc He, B., Fang, W., Luo, Q., Govindaraju, N.~K., and Wang, T.}
+\newblock Mars: a mapreduce framework on graphics processors.
+\newblock In {\em Proceedings of the 17th international conference on Parallel
+  architectures and compilation techniques\/} (2008), ACM, pp.~260--269.
+
+\bibitem{jia2014mrpb}
+{\sc Jia, W., Shaw, K.~A., and Martonosi, M.}
+\newblock Mrpb: Memory request prioritization for massively parallel
+  processors.
+\newblock In {\em 20th International Symposium on High Performance Computer
+  Architecture (HPCA-20)\/} (2014).
+
+\bibitem{jog2013orchestrated}
+{\sc Jog, A., et~al.}
+\newblock Orchestrated scheduling and prefetching for gpgpus.
+\newblock In {\em Proceedings of the 40th Annual International Symposium on
+  Computer Architecture\/} (2013), ACM, pp.~332--343.
+
+\bibitem{jog2013owl}
+{\sc Jog, A., et~al.}
+\newblock Owl: cooperative thread array aware scheduling techniques for
+  improving gpgpu performance.
+\newblock {\em ACM SIGARCH Computer Architecture News 41}, 1 (2013), 395--406.
+
+\bibitem{lindholm2008nvidia}
+{\sc Lindholm, E., et~al.}
+\newblock Nvidia tesla: A unified graphics and computing architecture.
+\newblock {\em Ieee Micro 28}, 2 (2008), 39--55.
+
+\bibitem{munshi2009opencl}
+{\sc Munshi, A., et~al.}
+\newblock The opencl specification.
+\newblock {\em Khronos OpenCL Working Group 1\/} (2009), l1--15.
+
+\bibitem{narasiman2011improving}
+{\sc Narasiman, V., et~al.}
+\newblock Improving gpu performance via large warps and two-level warp
+  scheduling.
+\newblock In {\em Proceedings of the 44th Annual IEEE/ACM International
+  Symposium on Microarchitecture\/} (2011), ACM, pp.~308--317.
+
+\bibitem{nvidia2008programming}
+{\sc Nvidia, C.}
+\newblock Programming guide, 2008.
+
+\bibitem{nvidia2009nvidia}
+{\sc Nvidia, C.}
+\newblock Nvidia's next generation cuda compute architecture: Fermi.
+\newblock {\em Computer system 26\/} (2009), 63--72.
+
+\bibitem{rogers2012cache}
+{\sc Rogers, T.~G., O'Connor, M., and Aamodt, T.~M.}
+\newblock Cache-conscious wavefront scheduling.
+\newblock In {\em Proceedings of the 2012 45th Annual IEEE/ACM International
+  Symposium on Microarchitecture\/} (2012), IEEE Computer Society, pp.~72--83.
+
+\bibitem{sdk2010v2}
+{\sc SDK, A.~S.}
+\newblock v2. 01 performance and optimization.
+\newblock {\em Technical Notes. Advanced Micro Devices Inc.: Sunnyvale, CA\/}
+  (2010).
+
+\bibitem{wong2010demystifying}
+{\sc Wong, H., Papadopoulou, M.-M., Sadooghi-Alvandi, M., and Moshovos, A.}
+\newblock Demystifying gpu microarchitecture through microbenchmarking.
+\newblock In {\em Performance Analysis of Systems \& Software (ISPASS), 2010
+  IEEE International Symposium on\/} (2010), IEEE, pp.~235--246.
+
+\end{thebibliography}

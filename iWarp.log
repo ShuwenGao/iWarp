@@ -1,0 +1,913 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.5.18)  23 FEB 2015 00:46
+entering extended mode
+**iWarp.tex
+(D:\git\iWarp\iWarp.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(D:\git\iWarp\sigplanconf.cls
+Document Class: sigplanconf 2013/07/02 v2.8 ACM SIGPLAN Proceedings
+\@numheaddepth=\count79
+(C:\CTEX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(C:\CTEX\MiKTeX\tex\latex\base\size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\standardtextwidth=\dimen103
+\standardvspace=\skip43
+
+Using natbib package with 'numbers' citation style.
+(C:\CTEX\UserData\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip44
+\bibsep=\skip45
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+\@sectionaboveskip=\skip46
+\@sectionbelowskip=\skip47
+\@subsectionaboveskip=\skip48
+\@subsectionbelowskip=\skip49
+\@paragraphaboveskip=\skip50
+\@authorcount=\count89
+\@titlenotecount=\count90
+\@titlenotetext=\toks14
+\@fnmark=\toks15
+\@authori=\count91
+\@measbox=\box26
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+\epsfxsize=\dimen106
+\epsfysize=\dimen107
+)
+(C:\CTEX\UserData\tex\latex\endnotes\endnotes.sty
+\c@endnote=\count93
+\endnotesep=\dimen108
+\@enotes=\write3
+)
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+(C:\CTEX\UserData\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\CTEX\UserData\tex\latex\algorithmicx\algpseudocode.sty
+Package: algpseudocode 
+
+(C:\CTEX\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\CTEX\UserData\tex\latex\algorithmicx\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count94
+\c@ALG@rem=\count95
+\c@ALG@nested=\count96
+\ALG@tlm=\skip51
+\ALG@thistlm=\skip52
+\c@ALG@Lnr=\count97
+\c@ALG@blocknr=\count98
+\c@ALG@storecount=\count99
+\c@ALG@tmpcounter=\count100
+\ALG@tmplength=\skip53
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (C:\CTEX\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen109
+)
+(C:\CTEX\UserData\tex\latex\algorithm2e\algorithm2e.sty
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count101
+
+(C:\CTEX\MiKTeX\tex\latex\tools\xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(C:\CTEX\MiKTeX\tex\latex\ltxmisc\relsize.sty
+Package: relsize 2003/07/04 ver 3.1
+)
+********************************************************
+Package `algorithm2e' Release 5.0 -- january 06 2013 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (cfiorio@um2.fr)
+********************************************************
+\skiptotal=\skip54
+\skiplinenumber=\skip55
+\skiprule=\skip56
+\skiphlne=\skip57
+\skiptext=\skip58
+\skiplength=\skip59
+\algomargin=\skip60
+\skipalgocfslide=\skip61
+\algowidth=\dimen110
+\inoutsize=\dimen111
+\inoutindent=\dimen112
+\interspacetitleruled=\dimen113
+\interspacealgoruled=\dimen114
+\interspacetitleboxruled=\dimen115
+\algocf@inoutbox=\box27
+\algocf@inputbox=\box28
+\AlCapSkip=\skip62
+\AlCapHSkip=\skip63
+\algoskipindent=\skip64
+\algocf@nlbox=\box29
+\algocf@hangingbox=\box30
+\algocf@untilbox=\box31
+\algocf@skipuntil=\skip65
+\algocf@capbox=\box32
+\algoheightruledefault=\skip66
+\algoheightrule=\skip67
+\algotitleheightruledefault=\skip68
+\algotitleheightrule=\skip69
+\c@algocfline=\count102
+\c@algocfproc=\count103
+\c@algocf=\count104
+\algocf@algoframe=\box33
+\algocf@algobox=\box34
+) (C:\CTEX\UserData\tex\latex\wrapfig\wrapfig.sty
+\wrapoverhang=\dimen116
+\WF@size=\dimen117
+\c@WF@wrappedlines=\count105
+\WF@box=\box35
+\WF@everypar=\toks17
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\CTEX\UserData\tex\latex\floatflt\floatflt.sty
+Package: floatflt 1997/07/16 v. 1.31
+\c@OptionTest=\count106
+\figbox=\box36
+\tabbox=\box37
+\pagebox=\box38
+\ffigcount=\count107
+\ftabcount=\count108
+\fftest=\count109
+\hangcount=\count110
+\nosuccesstryfig=\count111
+\nosuccesstrytab=\count112
+\figgutter=\dimen118
+\tabgutter=\dimen119
+\htdone=\dimen120
+\pageht=\dimen121
+\startpageht=\dimen122
+\tabbredd=\dimen123
+\floatfltwidth=\dimen124
+\fltitemwidth=\dimen125
+\outputpretest=\toks18
+)
+(C:\CTEX\UserData\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip70
+\subfigcapskip=\skip71
+\subfigcaptopadj=\dimen126
+\subfigbottomskip=\skip72
+\subfigcapmargin=\dimen127
+\subfiglabelskip=\skip73
+\c@subfigure=\count113
+\c@lofdepth=\count114
+\c@subtable=\count115
+\c@lotdepth=\count116
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\CTEX\UserData\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip74
+\subfig@bottom=\skip75
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip76
+
+For additional information on amsmath, use the `?' option.
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen128
+))
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen129
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count117
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count118
+\leftroot@=\count119
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count120
+\DOTSCASE@=\count121
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box39
+\strutbox@=\box40
+\big@size=\dimen130
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count122
+\c@MaxMatrixCols=\count123
+\dotsspace@=\muskip10
+\c@parentequation=\count124
+\dspbrk@lvl=\count125
+\tag@help=\toks20
+\row@=\count126
+\column@=\count127
+\maxfields@=\count128
+\andhelp@=\toks21
+\eqnshift@=\dimen131
+\alignsep@=\dimen132
+\tagshift@=\dimen133
+\tagwidth@=\dimen134
+\totwidth@=\dimen135
+\lineht@=\dimen136
+\@envbody=\toks22
+\multlinegap=\skip77
+\multlinetaggap=\skip78
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+) (D:\git\iWarp\macros.tex)
+\c@ourtask=\count129
+
+(D:\git\iWarp\iWarp.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 46.
+ (C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count130
+\scratchdimen=\dimen137
+\scratchbox=\box41
+\nofMPsegments=\count131
+\nofMParguments=\count132
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count133
+\MPscratchDim=\dimen138
+\MPnumerator=\count134
+\makeMPintoPDFobject=\count135
+\everyMPtoPDFconversion=\toks25
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 80.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 80.
+ (C:\CTEX\MiKTeX\tex\latex\psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 87.
+Package epstopdf Info: Source file: <figs/gpu.eps>
+(epstopdf)                    date: 2015-02-23 00:08:03
+(epstopdf)                    size: 470142 bytes
+(epstopdf)             Output file: <figs/gpu-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-23 00:08:10
+(epstopdf)                    size: 40814 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/gpu-eps-converted-to.p
+df figs/gpu.eps>
+(epstopdf)             \includegraphics on input line 114.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/gpu-eps-converted-to.pdf, id=1, 371.3875pt x 177.66376pt>
+File: figs/gpu-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/gpu-eps-converted-to.pdf>
+Package pdftex.def Info: figs/gpu-eps-converted-to.pdf used on input line 114.
+(pdftex.def)             Requested size: 371.38658pt x 177.66331pt.
+ [1{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}
+
+
+Non-PDF special ignored!
+
+]
+Package epstopdf Info: Source file: <figs/mpki.eps>
+(epstopdf)                    date: 2015-02-21 03:36:48
+(epstopdf)                    size: 109568 bytes
+(epstopdf)             Output file: <figs/mpki-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-21 03:36:58
+(epstopdf)                    size: 40308 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/mpki-eps-converted-to.
+pdf figs/mpki.eps>
+(epstopdf)             \includegraphics on input line 151.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/mpki-eps-converted-to.pdf, id=15, 1332.98pt x 525.965pt>
+File: figs/mpki-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/mpki-eps-converted-to.pdf>
+Package pdftex.def Info: figs/mpki-eps-converted-to.pdf used on input line 151.
+
+(pdftex.def)             Requested size: 1332.97675pt x 525.9637pt.
+Package epstopdf Info: Source file: <figs/l2_mpki.eps>
+(epstopdf)                    date: 2015-02-21 19:24:57
+(epstopdf)                    size: 73202 bytes
+(epstopdf)             Output file: <figs/l2_mpki-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-21 21:47:51
+(epstopdf)                    size: 30372 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/l2_mpki-eps-converted-
+to.pdf figs/l2_mpki.eps>
+(epstopdf)             \includegraphics on input line 160.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/l2_mpki-eps-converted-to.pdf, id=17, 666.49pt x 510.90875pt>
+File: figs/l2_mpki-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/l2_mpki-eps-converted-to.pdf>
+Package pdftex.def Info: figs/l2_mpki-eps-converted-to.pdf used on input line 1
+60.
+(pdftex.def)             Requested size: 666.48837pt x 510.9075pt.
+Package epstopdf Info: Source file: <figs/swl_l1.eps>
+(epstopdf)                    date: 2015-02-22 13:57:58
+(epstopdf)                    size: 59301 bytes
+(epstopdf)             Output file: <figs/swl_l1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-22 15:11:10
+(epstopdf)                    size: 25237 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/swl_l1-eps-converted-t
+o.pdf figs/swl_l1.eps>
+(epstopdf)             \includegraphics on input line 173.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/swl_l1-eps-converted-to.pdf, id=19, 666.49pt x 531.9875pt>
+File: figs/swl_l1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/swl_l1-eps-converted-to.pdf>
+Package pdftex.def Info: figs/swl_l1-eps-converted-to.pdf used on input line 17
+3.
+(pdftex.def)             Requested size: 666.48837pt x 531.9862pt.
+Package epstopdf Info: Source file: <figs/swl_l2.eps>
+(epstopdf)                    date: 2015-02-22 14:46:40
+(epstopdf)                    size: 52431 bytes
+(epstopdf)             Output file: <figs/swl_l2-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-22 15:11:10
+(epstopdf)                    size: 22833 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/swl_l2-eps-converted-t
+o.pdf figs/swl_l2.eps>
+(epstopdf)             \includegraphics on input line 173.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/swl_l2-eps-converted-to.pdf, id=21, 666.49pt x 531.9875pt>
+File: figs/swl_l2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/swl_l2-eps-converted-to.pdf>
+Package pdftex.def Info: figs/swl_l2-eps-converted-to.pdf used on input line 17
+3.
+(pdftex.def)             Requested size: 666.48837pt x 531.9862pt.
+
+Overfull \hbox (4.26358pt too wide) in paragraph at lines 173--174
+ [] 
+ []
+
+[2 <D:/git/iWarp/figs/gpu-eps-converted-to.pdf> <D:/git/iWarp/figs/mpki-eps-con
+verted-to.pdf> <D:/git/iWarp/figs/l2_mpki-eps-converted-to.pdf> <D:/git/iWarp/f
+igs/swl_l1-eps-converted-to.pdf> <D:/git/iWarp/figs/swl_l2-eps-converted-to.pdf
+>]
+Overfull \hbox (2.96141pt too wide) in paragraph at lines 203--204
+\OT1/ptm/b/n/9 Cache-Locality-Aware Schedul-ing (CLA)\OT1/ptm/m/n/9 : Sev-er-al
+ cache-locality-
+ []
+
+[3]
+Overfull \hbox (3.45042pt too wide) in paragraph at lines 216--218
+[]\OT1/ptm/m/n/9 Figures 4(b)[] il-lus-trates the mo-ti-va-tion-al for our pro-
+posed scheme.
+ []
+
+Package epstopdf Info: Source file: <figs/l1_contention.eps>
+(epstopdf)                    date: 2015-02-22 17:10:38
+(epstopdf)                    size: 1825137 bytes
+(epstopdf)             Output file: <figs/l1_contention-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-22 17:12:36
+(epstopdf)                    size: 50685 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/l1_contention-eps-conv
+erted-to.pdf figs/l1_contention.eps>
+(epstopdf)             \includegraphics on input line 226.
+Package epstopdf Info: Output file is already uptodate.
+<figs/l1_contention-eps-converted-to.pdf, id=253, 319.1925pt x 281.05pt>
+File: figs/l1_contention-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/l1_contention-eps-converted-to.pdf>
+Package pdftex.def Info: figs/l1_contention-eps-converted-to.pdf used on input 
+line 226.
+(pdftex.def)             Requested size: 319.19171pt x 281.0493pt.
+Package epstopdf Info: Source file: <figs/iWarp_l1.eps>
+(epstopdf)                    date: 2015-02-22 17:29:23
+(epstopdf)                    size: 1306624 bytes
+(epstopdf)             Output file: <figs/iWarp_l1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-22 17:38:37
+(epstopdf)                    size: 60339 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/iWarp_l1-eps-converted
+-to.pdf figs/iWarp_l1.eps>
+(epstopdf)             \includegraphics on input line 235.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/iWarp_l1-eps-converted-to.pdf, id=255, 311.1625pt x 160.6pt>
+File: figs/iWarp_l1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/iWarp_l1-eps-converted-to.pdf>
+Package pdftex.def Info: figs/iWarp_l1-eps-converted-to.pdf used on input line 
+235.
+(pdftex.def)             Requested size: 311.16174pt x 160.5996pt.
+Package epstopdf Info: Source file: <figs/l2_1.eps>
+(epstopdf)                    date: 2015-02-22 23:56:38
+(epstopdf)                    size: 383037 bytes
+(epstopdf)             Output file: <figs/l2_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-23 00:01:06
+(epstopdf)                    size: 27640 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/l2_1-eps-converted-to.
+pdf figs/l2_1.eps>
+(epstopdf)             \includegraphics on input line 261.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/l2_1-eps-converted-to.pdf, id=257, 475.7775pt x 468.75125pt>
+File: figs/l2_1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/l2_1-eps-converted-to.pdf>
+Package pdftex.def Info: figs/l2_1-eps-converted-to.pdf used on input line 261.
+
+(pdftex.def)             Requested size: 475.77632pt x 468.75009pt.
+Package epstopdf Info: Source file: <figs/l2_2.eps>
+(epstopdf)                    date: 2015-02-22 23:57:56
+(epstopdf)                    size: 387106 bytes
+(epstopdf)             Output file: <figs/l2_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-23 00:01:07
+(epstopdf)                    size: 27821 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/l2_2-eps-converted-to.
+pdf figs/l2_2.eps>
+(epstopdf)             \includegraphics on input line 261.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/l2_2-eps-converted-to.pdf, id=259, 474.77374pt x 468.75125pt>
+File: figs/l2_2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/l2_2-eps-converted-to.pdf>
+Package pdftex.def Info: figs/l2_2-eps-converted-to.pdf used on input line 261.
+
+(pdftex.def)             Requested size: 474.77258pt x 468.75009pt.
+Package epstopdf Info: Source file: <figs/l2_3.eps>
+(epstopdf)                    date: 2015-02-22 23:59:07
+(epstopdf)                    size: 395252 bytes
+(epstopdf)             Output file: <figs/l2_3-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-23 00:01:08
+(epstopdf)                    size: 28323 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/l2_3-eps-converted-to.
+pdf figs/l2_3.eps>
+(epstopdf)             \includegraphics on input line 261.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/l2_3-eps-converted-to.pdf, id=261, 468.75125pt x 465.74pt>
+File: figs/l2_3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/l2_3-eps-converted-to.pdf>
+Package pdftex.def Info: figs/l2_3-eps-converted-to.pdf used on input line 261.
+
+(pdftex.def)             Requested size: 468.75009pt x 465.73886pt.
+
+Overfull \hbox (4.61397pt too wide) in paragraph at lines 261--262
+ [] 
+ []
+
+[4 <D:/git/iWarp/figs/l1_contention-eps-converted-to.pdf> <D:/git/iWarp/figs/iW
+arp_l1-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package epstopdf Info: Source file: <figs/vta.eps>
+(epstopdf)                    date: 2015-02-22 22:47:41
+(epstopdf)                    size: 544014 bytes
+(epstopdf)             Output file: <figs/vta-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-22 22:50:21
+(epstopdf)                    size: 49849 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/vta-eps-converted-to.p
+df figs/vta.eps>
+(epstopdf)             \includegraphics on input line 289.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/vta-eps-converted-to.pdf, id=301, 398.48875pt x 340.27126pt>
+File: figs/vta-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/vta-eps-converted-to.pdf>
+Package pdftex.def Info: figs/vta-eps-converted-to.pdf used on input line 289.
+(pdftex.def)             Requested size: 398.48778pt x 340.27042pt.
+ [5 <D:/git/iWarp/figs/l2_1-eps-converted-to.pdf> <D:/git/iWarp/figs/l2_2-eps-c
+onverted-to.pdf> <D:/git/iWarp/figs/l2_3-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figs/vta_ex.eps>
+(epstopdf)                    date: 2015-02-22 22:49:10
+(epstopdf)                    size: 741224 bytes
+(epstopdf)             Output file: <figs/vta_ex-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-22 22:50:22
+(epstopdf)                    size: 50962 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/vta_ex-eps-converted-t
+o.pdf figs/vta_ex.eps>
+(epstopdf)             \includegraphics on input line 300.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/vta_ex-eps-converted-to.pdf, id=408, 380.42125pt x 337.26pt>
+File: figs/vta_ex-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/vta_ex-eps-converted-to.pdf>
+Package pdftex.def Info: figs/vta_ex-eps-converted-to.pdf used on input line 30
+0.
+(pdftex.def)             Requested size: 380.4203pt x 337.25917pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+[]\OT1/ptm/m/n/7 16KB, 128B line, 4-way as-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+[]\OT1/ptm/m/n/7 48KB, 128B line, 6-way as-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
+[]\OT1/ptm/m/n/7 64KB, 128B line, 8-way as-
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 349.
+Package epstopdf Info: Source file: <figs/16k_ipc.eps>
+(epstopdf)                    date: 2015-02-21 22:07:38
+(epstopdf)                    size: 71099 bytes
+(epstopdf)             Output file: <figs/16k_ipc-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-21 22:09:59
+(epstopdf)                    size: 26889 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/16k_ipc-eps-converted-
+to.pdf figs/16k_ipc.eps>
+(epstopdf)             \includegraphics on input line 378.
+Package epstopdf Info: Output file is already uptodate.
+<figs/16k_ipc-eps-converted-to.pdf, id=410, 746.79pt x 530.98375pt>
+File: figs/16k_ipc-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/16k_ipc-eps-converted-to.pdf>
+Package pdftex.def Info: figs/16k_ipc-eps-converted-to.pdf used on input line 3
+78.
+(pdftex.def)             Requested size: 746.78816pt x 530.98244pt.
+Package epstopdf Info: Source file: <figs/48k_ipc.eps>
+(epstopdf)                    date: 2015-02-21 04:44:56
+(epstopdf)                    size: 71907 bytes
+(epstopdf)             Output file: <figs/48k_ipc-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-21 22:10:00
+(epstopdf)                    size: 27758 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/48k_ipc-eps-converted-
+to.pdf figs/48k_ipc.eps>
+(epstopdf)             \includegraphics on input line 378.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/48k_ipc-eps-converted-to.pdf, id=412, 769.87625pt x 549.05125pt>
+File: figs/48k_ipc-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/48k_ipc-eps-converted-to.pdf>
+Package pdftex.def Info: figs/48k_ipc-eps-converted-to.pdf used on input line 3
+78.
+(pdftex.def)             Requested size: 769.87437pt x 549.04991pt.
+Package epstopdf Info: Source file: <figs/64k_ipc.eps>
+(epstopdf)                    date: 2015-02-21 22:06:36
+(epstopdf)                    size: 71275 bytes
+(epstopdf)             Output file: <figs/64k_ipc-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-21 22:10:00
+(epstopdf)                    size: 27022 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/64k_ipc-eps-converted-
+to.pdf figs/64k_ipc.eps>
+(epstopdf)             \includegraphics on input line 378.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/64k_ipc-eps-converted-to.pdf, id=414, 751.80875pt x 544.0325pt>
+File: figs/64k_ipc-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/64k_ipc-eps-converted-to.pdf>
+Package pdftex.def Info: figs/64k_ipc-eps-converted-to.pdf used on input line 3
+78.
+(pdftex.def)             Requested size: 751.8069pt x 544.03117pt.
+
+Overfull \hbox (4.60756pt too wide) in paragraph at lines 378--379
+ [] 
+ []
+
+Package epstopdf Info: Source file: <figs/16k_l1_miss_rate.eps>
+(epstopdf)                    date: 2015-02-21 03:41:42
+(epstopdf)                    size: 64785 bytes
+(epstopdf)             Output file: <figs/16k_l1_miss_rate-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2015-02-21 22:16:09
+(epstopdf)                    size: 25343 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/16k_l1_miss_rate-eps-c
+onverted-to.pdf figs/16k_l1_miss_rate.eps>
+(epstopdf)             \includegraphics on input line 397.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/16k_l1_miss_rate-eps-converted-to.pdf, id=416, 659.46375pt x 531.9875pt>
+File: figs/16k_l1_miss_rate-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/16k_l1_miss_rate-eps-converted-to.pdf>
+Package pdftex.def Info: figs/16k_l1_miss_rate-eps-converted-to.pdf used on inp
+ut line 397.
+(pdftex.def)             Requested size: 659.46213pt x 531.9862pt.
+Package epstopdf Info: Source file: <figs/48k_l1_miss_rate.eps>
+(epstopdf)                    date: 2015-02-21 22:16:56
+(epstopdf)                    size: 62668 bytes
+(epstopdf)             Output file: <figs/48k_l1_miss_rate-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2015-02-21 22:17:10
+(epstopdf)                    size: 24666 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/48k_l1_miss_rate-eps-c
+onverted-to.pdf figs/48k_l1_miss_rate.eps>
+(epstopdf)             \includegraphics on input line 397.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/48k_l1_miss_rate-eps-converted-to.pdf, id=418, 666.49pt x 531.9875pt>
+File: figs/48k_l1_miss_rate-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/48k_l1_miss_rate-eps-converted-to.pdf>
+Package pdftex.def Info: figs/48k_l1_miss_rate-eps-converted-to.pdf used on inp
+ut line 397.
+(pdftex.def)             Requested size: 666.48837pt x 531.9862pt.
+Package epstopdf Info: Source file: <figs/64k_l1_miss_rate.eps>
+(epstopdf)                    date: 2015-02-21 22:17:35
+(epstopdf)                    size: 63323 bytes
+(epstopdf)             Output file: <figs/64k_l1_miss_rate-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2015-02-21 22:17:41
+(epstopdf)                    size: 24627 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/64k_l1_miss_rate-eps-c
+onverted-to.pdf figs/64k_l1_miss_rate.eps>
+(epstopdf)             \includegraphics on input line 397.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/64k_l1_miss_rate-eps-converted-to.pdf, id=420, 766.865pt x 531.9875pt>
+File: figs/64k_l1_miss_rate-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/64k_l1_miss_rate-eps-converted-to.pdf>
+Package pdftex.def Info: figs/64k_l1_miss_rate-eps-converted-to.pdf used on inp
+ut line 397.
+(pdftex.def)             Requested size: 766.86314pt x 531.9862pt.
+
+Overfull \hbox (4.60854pt too wide) in paragraph at lines 397--398
+ [] 
+ []
+
+Package epstopdf Info: Source file: <figs/16k_l2_miss_rate.eps>
+(epstopdf)                    date: 2015-02-21 03:44:36
+(epstopdf)                    size: 70120 bytes
+(epstopdf)             Output file: <figs/16k_l2_miss_rate-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2015-02-21 22:17:42
+(epstopdf)                    size: 27069 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/16k_l2_miss_rate-eps-c
+onverted-to.pdf figs/16k_l2_miss_rate.eps>
+(epstopdf)             \includegraphics on input line 412.
+Package epstopdf Info: Output file is already uptodate.
+<figs/16k_l2_miss_rate-eps-converted-to.pdf, id=422, 666.49pt x 549.05125pt>
+File: figs/16k_l2_miss_rate-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/16k_l2_miss_rate-eps-converted-to.pdf>
+Package pdftex.def Info: figs/16k_l2_miss_rate-eps-converted-to.pdf used on inp
+ut line 412.
+(pdftex.def)             Requested size: 666.48837pt x 549.04991pt.
+Package epstopdf Info: Source file: <figs/48k_l2_miss_rate.eps>
+(epstopdf)                    date: 2015-02-21 22:17:04
+(epstopdf)                    size: 75114 bytes
+(epstopdf)             Output file: <figs/48k_l2_miss_rate-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2015-02-21 22:17:42
+(epstopdf)                    size: 28540 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/48k_l2_miss_rate-eps-c
+onverted-to.pdf figs/48k_l2_miss_rate.eps>
+(epstopdf)             \includegraphics on input line 412.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/48k_l2_miss_rate-eps-converted-to.pdf, id=424, 666.49pt x 549.05125pt>
+File: figs/48k_l2_miss_rate-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/48k_l2_miss_rate-eps-converted-to.pdf>
+Package pdftex.def Info: figs/48k_l2_miss_rate-eps-converted-to.pdf used on inp
+ut line 412.
+(pdftex.def)             Requested size: 666.48837pt x 549.04991pt.
+Package epstopdf Info: Source file: <figs/64k_l2_miss_rate.eps>
+(epstopdf)                    date: 2015-02-21 15:34:40
+(epstopdf)                    size: 74028 bytes
+(epstopdf)             Output file: <figs/64k_l2_miss_rate-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2015-02-21 22:17:43
+(epstopdf)                    size: 28252 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/64k_l2_miss_rate-eps-c
+onverted-to.pdf figs/64k_l2_miss_rate.eps>
+(epstopdf)             \includegraphics on input line 412.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/64k_l2_miss_rate-eps-converted-to.pdf, id=426, 666.49pt x 549.05125pt>
+File: figs/64k_l2_miss_rate-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/64k_l2_miss_rate-eps-converted-to.pdf>
+Package pdftex.def Info: figs/64k_l2_miss_rate-eps-converted-to.pdf used on inp
+ut line 412.
+(pdftex.def)             Requested size: 666.48837pt x 549.04991pt.
+
+Overfull \hbox (4.6062pt too wide) in paragraph at lines 412--413
+ [] 
+ []
+
+Package epstopdf Info: Source file: <figs/16k_avg_mf.eps>
+(epstopdf)                    date: 2015-02-21 03:48:15
+(epstopdf)                    size: 67818 bytes
+(epstopdf)             Output file: <figs/16k_avg_mf-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-21 22:20:50
+(epstopdf)                    size: 25820 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/16k_avg_mf-eps-convert
+ed-to.pdf figs/16k_avg_mf.eps>
+(epstopdf)             \includegraphics on input line 430.
+Package epstopdf Info: Output file is already uptodate.
+<figs/16k_avg_mf-eps-converted-to.pdf, id=428, 738.76pt x 531.9875pt>
+File: figs/16k_avg_mf-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/16k_avg_mf-eps-converted-to.pdf>
+Package pdftex.def Info: figs/16k_avg_mf-eps-converted-to.pdf used on input lin
+e 430.
+(pdftex.def)             Requested size: 738.75818pt x 531.9862pt.
+Package epstopdf Info: Source file: <figs/48k_avg_mf.eps>
+(epstopdf)                    date: 2015-02-21 05:07:49
+(epstopdf)                    size: 67201 bytes
+(epstopdf)             Output file: <figs/48k_avg_mf-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-21 22:20:51
+(epstopdf)                    size: 25730 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/48k_avg_mf-eps-convert
+ed-to.pdf figs/48k_avg_mf.eps>
+(epstopdf)             \includegraphics on input line 430.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/48k_avg_mf-eps-converted-to.pdf, id=430, 735.74875pt x 531.9875pt>
+File: figs/48k_avg_mf-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/48k_avg_mf-eps-converted-to.pdf>
+Package pdftex.def Info: figs/48k_avg_mf-eps-converted-to.pdf used on input lin
+e 430.
+(pdftex.def)             Requested size: 735.74695pt x 531.9862pt.
+Package epstopdf Info: Source file: <figs/64k_avg_mf.eps>
+(epstopdf)                    date: 2015-02-21 15:43:31
+(epstopdf)                    size: 67998 bytes
+(epstopdf)             Output file: <figs/64k_avg_mf-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-21 22:20:52
+(epstopdf)                    size: 26119 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/64k_avg_mf-eps-convert
+ed-to.pdf figs/64k_avg_mf.eps>
+(epstopdf)             \includegraphics on input line 430.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/64k_avg_mf-eps-converted-to.pdf, id=432, 775.89874pt x 531.9875pt>
+File: figs/64k_avg_mf-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/64k_avg_mf-eps-converted-to.pdf>
+Package pdftex.def Info: figs/64k_avg_mf-eps-converted-to.pdf used on input lin
+e 430.
+(pdftex.def)             Requested size: 775.89685pt x 531.9862pt.
+
+Overfull \hbox (4.60841pt too wide) in paragraph at lines 430--431
+ [] 
+ []
+
+(D:\git\iWarp\iWarp.bbl [6 <D:/git/iWarp/figs/vta-eps-converted-to.pdf> <D:/git
+/iWarp/figs/vta_ex-eps-converted-to.pdf>] [7 <D:/git/iWarp/figs/16k_ipc-eps-con
+verted-to.pdf> <D:/git/iWarp/figs/48k_ipc-eps-converted-to.pdf> <D:/git/iWarp/f
+igs/64k_ipc-eps-converted-to.pdf> <D:/git/iWarp/figs/16k_l1_miss_rate-eps-conve
+rted-to.pdf> <D:/git/iWarp/figs/48k_l1_miss_rate-eps-converted-to.pdf> <D:/git/
+iWarp/figs/64k_l1_miss_rate-eps-converted-to.pdf> <D:/git/iWarp/figs/16k_l2_mis
+s_rate-eps-converted-to.pdf> <D:/git/iWarp/figs/48k_l2_miss_rate-eps-converted-
+to.pdf> <D:/git/iWarp/figs/64k_l2_miss_rate-eps-converted-to.pdf>]) [8
+
+ <D:/git/iWarp/figs/16k_avg_mf-eps-converted-to.pdf> <D:/git/iWarp/figs/48k_avg
+_mf-eps-converted-to.pdf> <D:/git/iWarp/figs/64k_avg_mf-eps-converted-to.pdf>]
+(D:\git\iWarp\iWarp.aux) ) 
+Here is how much of TeX's memory you used:
+ 5180 strings out of 495354
+ 71587 string characters out of 3183859
+ 174942 words of memory out of 3000000
+ 8229 multiletter control sequences out of 15000+200000
+ 28896 words of font info for 53 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 42i,10n,36p,2199b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/C
+TEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/CTEX/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/CTEX/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmsy9.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/CTEX/Mi
+KTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/ut
+mr8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/CTEX/MiKTeX/fonts
+/type1/urw/times/utmri8a.pfb>
+Output written on iWarp.pdf (8 pages, 900746 bytes).
+PDF statistics:
+ 1083 PDF objects out of 1200 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+
